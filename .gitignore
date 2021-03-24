@@ -1,0 +1,6 @@
+.DS_Store
+*.mp4
+*.wav
+*.mp3
+class_vectors.npy
+noise_vectors.npy
